@@ -9,3 +9,6 @@ gem 'pry'
 gem 'sinatra-activerecord'
 gem 'rake'
 gem 'database_cleaner'
+
+gem 'pry'
+gem 'learn-co'
